@@ -6,7 +6,7 @@ A local Retrieval-Augmented Generation (RAG) application that lets you upload an
 
 ## Demo
 
-> Live demo: *coming soon — deploy to Streamlit Community Cloud and paste the URL here*
+> Live demo: https://pdfappassistant.streamlit.app/
 
 ---
 
