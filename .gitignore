@@ -1,0 +1,23 @@
+# Environment / secrets
+.env
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Pytest cache
+.pytest_cache/
+
+# ChromaDB local data
+chroma_db/
+chroma_db_test_probe/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Kiro project metadata
+.kiro/
